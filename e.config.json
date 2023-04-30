@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "api_key": "",
+    "databaseURL": "",
+    "welcomeChannel": "",
+    "scheduledMessageHour": "",
+    "scheduledMessageMinute": "",
+    "scheduledMessageChannel": ""
+}
